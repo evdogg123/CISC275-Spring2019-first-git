@@ -7,4 +7,4 @@ Using the Animal class, and the Arraylist of Dogs dogs.
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 The comparator constructor call occurs within the method call "sort" on dogs. The class definition
-for comparators occurs in Animals.
+for comparators occurs in MyCompare3 where compare is overwritten.
